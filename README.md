@@ -1,8 +1,6 @@
 ## Hi 👋
 
-![helttek's Stats](https://github-readme-stats.vercel.app/api?username=helttek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helttek&layout=donut-vertical)](https://github.com/helttek/github-readme-stats)
+![helttek's Stats](https://github-readme-stats.vercel.app/api?username=helttek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helttek&layout=donut-vertical)](https://github.com/helttek/github-readme-stats)
 
 <!--
 ## Tech Stack
