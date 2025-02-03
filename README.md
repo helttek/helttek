@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi 👋
 
 ![helttek's Stats](https://github-readme-stats.vercel.app/api?username=helttek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helttek&layout=donut-vertical)](https://github.com/helttek/github-readme-stats)
+
+<!--
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
-
-<!--
 **helttek/helttek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
